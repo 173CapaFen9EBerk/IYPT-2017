@@ -3,10 +3,10 @@
 
 Sınıf | Öğrenci İsmi  | Numara
 -------|----------------|--------
-9-E   | Efe Berk Alpaydın | 629
- 
- MİCROWAWE OVEN
- 
+9-E   | Efe Berk Alpaydın | 629
+
+M
+
 ## Özet
 Buraya projenin özetini yazınız. Özet kısa ve anlaşılır olmalıdır.  Proje özeti yaklaşık 150-250 kelime arasında olmalıdır. Özeti okuyan, proje hakkında doğru bir fikre sahip olabilmelidir. Proje özetinde; projenin amacı ve kullanılacak yöntemler özetlenecektir. 
 

@@ -4,7 +4,7 @@
 
 Sınıf | Öğrenci İsmi  | Numara
 -------|----------------|--------
-11-D   | Efe Berk Alpaydın | 629
+9-E   | Efe Berk Alpaydın | 629
 
 
  M
